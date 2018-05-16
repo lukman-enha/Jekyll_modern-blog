@@ -10,6 +10,9 @@ date:   05-03-2018
 ###
 Kita terjatuh ke lubang yang sama. Banyak orang menyebut demikian ketika Subang kembali mendapat coreng di wajah dari penegak hukum.
 
+
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMjMzNTJjNzQtZTBhZi00MDY0LWI3MjgtMjY0ZDI0YmUxZTUzIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
 ### Penyakit Korupsi Bernama GONE
 Tidak tanggung-tanggung, bukan tiga kali, tapi empat kali Bupati Subang terjerat kasus hukum. Semuanya kasus korupsi.
 Entah dosa apa yang diperbuat Subang. Hingga Tuhan menghukumnya dengan membuka aib berturut-turut. Begitu sebagian orang memaknai. Bisa jadi ini juga pertanda, partai politik di Subang benar-benar tidak serius melakukan seleksi dan menghadirkan figur bersih untuk dipilih rakyat. Tapi walau berkali-kali, apa sesungguhnya yang sudah kita perbuat, agar hal itu tidak terulang lagi?
@@ -44,5 +47,3 @@ Perilaku korupsi untuk menumpuk kekayaan bisa kita golongkan sebagai bentuk dari
 Maka, partisipasi publik untuk mengoreksi proses seleksi calon pemimpin oleh partai politik sudah mendesak untuk dilakukan. Bentuk a-politis akan lebih mencelakakan wajah demokrasi dan semakin membuat partai politik merasa tidak diawasi serta tidak bertanggung jawab.
 
 Ah, bagaimana pula semua sudah terjadi. Kita sudah disuguhi lagi figur yang tidak tahu bagaimana “cerita” awalnya mereka bisa dipilih partai menjadi calon bupati dan wakil bupati. Apa boleh buat, tanggal 27 Juni nanti kita harus memilih. Semoga, mereka sudah berada pada level aktialisasi diri. Tidak bermental greedy, jauh dari penyakit GONE. Dan, semoga kita tidak diam saja.(*)
-
-<div class="embed-responsive embed-responsive-16by9" style="height:550px;" ><iframe class="embed-responsive-item" width ="930" height=550 src="https://databoks.katadata.co.id/datapublishembed_en/109525/berapa-bupatiwalikota-yang-tertangkap-kpk"></iframe></div>
