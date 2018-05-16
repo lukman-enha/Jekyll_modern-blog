@@ -14,10 +14,6 @@ Kita terjatuh ke lubang yang sama. Banyak orang menyebut demikian ketika Subang 
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMjMzNTJjNzQtZTBhZi00MDY0LWI3MjgtMjY0ZDI0YmUxZTUzIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMjMzNTJjNzQtZTBhZi00MDY0LWI3MjgtMjY0ZDI0YmUxZTUzIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
-
-<iframe width="933" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiMjMzNTJjNzQtZTBhZi00MDY0LWI3MjgtMjY0ZDI0YmUxZTUzIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Penyakit Korupsi Bernama GONE
 Tidak tanggung-tanggung, bukan tiga kali, tapi empat kali Bupati Subang terjerat kasus hukum. Semuanya kasus korupsi.
