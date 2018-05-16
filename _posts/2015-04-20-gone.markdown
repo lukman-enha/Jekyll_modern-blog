@@ -2,7 +2,7 @@
 title:  "Penyakit Korupsi Bernama GONE"
 subtitle: ""
 author: "Lukman Nurhakim"
-avatar: "img/authors/Catatan-Lukman.jpg"
+avatar: "img/authors/lukman.jpg"
 image: "img/law.png"
 date:   05-03-2018
 ---
