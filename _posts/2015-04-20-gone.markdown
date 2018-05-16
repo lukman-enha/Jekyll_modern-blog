@@ -1,6 +1,6 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+title:  "Penyakit Korupsi Bernama GONE"
+subtitle: ""
 author: "Lukman Nurhakim"
 avatar: "img/authors/Catatan-Lukman.jpg"
 image: "img/law.png"
