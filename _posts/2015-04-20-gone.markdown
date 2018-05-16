@@ -7,7 +7,7 @@ image: "img/law.png"
 date:   05-03-2018
 ---
 
-### Oleh: Lukman Nurhakim
+###
 Kita terjatuh ke lubang yang sama. Banyak orang menyebut demikian ketika Subang kembali mendapat coreng di wajah dari penegak hukum.
 
 ### Penyakit Korupsi Bernama GONE
