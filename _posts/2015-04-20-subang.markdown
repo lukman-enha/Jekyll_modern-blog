@@ -3,8 +3,8 @@ title:  "Subang dan Hal yang Belum Selesai"
 subtitle: ""
 author: "Lukman Nurhakim"
 avatar: "img/authors/lukmannew.jpg"
-image: "img/sbg.jpg"
-date:   05-03-2018
+image: "img/sbg1.jpg"
+date:   17-04-2018
 ---
 
 ###
