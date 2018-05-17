@@ -3,7 +3,7 @@ title:  "Jejak Darta dan Sistem Perizinan yang Pura-pura Diperbaiki"
 subtitle: ""
 author: "Lukman Nurhakim"
 avatar: "img/authors/lukmannew.jpg"
-image: "img/lukmannew1.jpg"
+image: "img/lukmannew2.jpg"
 date:   18-02-2018
 ---
 
