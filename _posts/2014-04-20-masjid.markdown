@@ -3,7 +3,7 @@ title:  "Politik Made In Masjid"
 subtitle: ""
 author: "Lukman Nurhakim"
 avatar: "img/authors/lukmannew.jpg"
-image: ""
+image: "img/lukmannew2.jpg"
 date:   05-08-2018
 ---
 
